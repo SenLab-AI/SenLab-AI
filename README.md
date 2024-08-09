@@ -6,12 +6,13 @@
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-informational?style=flat&logo=youtube&logoColor=white&color=FF0000)](https://www.youtube.com/channel/UCvC9Fh--HrJ2pV0vEq6gj5Q)
 
 
-# [✨Bio✨](https://github.com/smdlabtech)
+# [✨Bio✨](https://github.com/SenLab-AI)
 
-- 👋 Hi, I'm **Daya**
-- I'm a **data scientist** with a passion for soccer and basketball. 
-- This account is a way to share my passion for Business Intelligence, data science and programming through the languages :  
+- 👋 Hi this account is a way to share my passion for Business Intelligence, data science and programming through the languages :  
  **Python**, **R**, **SQL**, **Javascript** and tools like **Power BI**, **Shiny**, **Streamlit**, **Excel VBA** and **Google Sheets** (via **Google Apps Script**).  
+
+ - 💻 I'm a data enthusiast with a strong background in Business Intelligence and Data Science.
+ 
 - 😎 I love working on topics like : Chatbot Assistant, Text Mining & NLP and Web App Machine Learning, Deep Learning and AI Assistant and Web Scraping ⭐  
 <br>
 
