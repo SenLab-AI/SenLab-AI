@@ -16,12 +16,3 @@
 - 😎 I love working on topics like : Chatbot Assistant, Text Mining & NLP and Web App Machine Learning, Deep Learning and AI Assistant and Web Scraping ⭐  
 <br>
 
-<!-- 💻 I'm a **Microsoft Certified Professional** in **Data Science with Python** and ** -->
-
-<!--
-<p align="left"> 
-    <a href="https://share.streamlit.io/">
-        <img width="800" src="assets/img/SenLab IA garage.png" align="left"></img>
-    </a>
-</p><br><br><br><br><br>
--->
