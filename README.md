@@ -1,16 +1,26 @@
-## Hi there 👋
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/smdlabtech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/dayasylla/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2)](https://x.com/BrainYadzo/followers)
+[![Instagram](https://img.shields.io/badge/Instagram-Connect-informational?style=flat&logo=instagram&logoColor=white&color=C13584)](https://www.instagram.com/dayalabtech/)
+[![TikTok](https://img.shields.io/badge/TikTok-Connect-informational?style=flat&logo=tiktok&logoColor=white&color=FF0050)](https://www.tiktok.com/@smdlabtech)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-informational?style=flat&logo=youtube&logoColor=white&color=FF0000)](https://www.youtube.com/channel/UCvC9Fh--HrJ2pV0vEq6gj5Q)
+
+
+# [✨Bio✨](https://github.com/smdlabtech)
+
+- 👋 Hi, I'm **Daya**
+- I'm a **data scientist** with a passion for soccer and basketball. 
+- This account is a way to share my passion for Business Intelligence, data science and programming through the languages :  
+ **Python**, **R**, **SQL**, **Javascript** and tools like **Power BI**, **Shiny**, **Streamlit**, **Excel VBA** and **Google Sheets** (via **Google Apps Script**).  
+- 😎 I love working on topics like : Chatbot Assistant, Text Mining & NLP and Web App Machine Learning, Deep Learning and AI Assistant and Web Scraping ⭐  
+<br>
+
+<!-- 💻 I'm a **Microsoft Certified Professional** in **Data Science with Python** and ** -->
 
 <!--
-**SenLab-AI/SenLab-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="left"> 
+    <a href="https://share.streamlit.io/">
+        <img width="800" src="assets/img/SenLab IA garage.png" align="left"></img>
+    </a>
+</p><br><br><br><br><br>
 -->
